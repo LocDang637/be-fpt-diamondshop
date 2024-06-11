@@ -67,3 +67,4 @@ exports.delete = async (req, res) => {
 	}
 };
 //fix_register
+//fix_login
