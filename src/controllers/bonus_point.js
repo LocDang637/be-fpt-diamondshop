@@ -66,5 +66,4 @@ exports.delete = async (req, res) => {
 		res.status(400).json({ error: err.message });
 	}
 };
-//fix_register
-//fix_login
+//juhuhhuhsdyfsdgyfhadsufada
